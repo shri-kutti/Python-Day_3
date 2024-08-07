@@ -27,4 +27,4 @@ else:
 #none statement return and stuff.
 # instead of using optional we can use some_type, None so like kinda valid la but only on 3.8+ so nnah  don't
 # : type hints is diff than = assigning as like default
-
+# lf(unix ending line feed \n) converted to crlf (windows based carriage return line feed \r\n)
